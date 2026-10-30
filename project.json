@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Publish Temp and Hum with MD02",
+  "target": {
+    "framework": "arduino",
+    "board": "esp32:esp32:esp32s3",
+    "options": {
+      "CDCOnBoot": "default",
+      "CPUFreq": "240",
+      "DebugLevel": "none",
+      "DFUOnBoot": "default",
+      "EraseFlash": "none",
+      "EventsCore": "1",
+      "FlashMode": "qio",
+      "FlashSize": "16M",
+      "JTAGAdapter": "default",
+      "LoopCore": "1",
+      "MSCOnBoot": "default",
+      "PartitionScheme": "default",
+      "PSRAM": "enabled",
+      "UploadMode": "default",
+      "UploadSpeed": "921600",
+      "USBMode": "hwcdc",
+      "ZigbeeMode": "default"
+    }
+  },
+  "serial": {
+    "baudRate": 115200
+  },
+  "build": {
+    "properties": []
+  },
+  "createdAt": "2026-10-16T11:53:06.405Z",
+  "updatedAt": "2026-10-23T05:08:17.918Z"
+}

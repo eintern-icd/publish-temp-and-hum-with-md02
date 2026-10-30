@@ -1,0 +1,6 @@
+/builds/
+/sketch/build/
+/sketchbook/
+
+# NORVI import validation output
+.norvi-import-build/
