@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "name": "Publish Temp and Hum with MD02",
+  "name": "Publish Temp and Hum",
   "target": {
     "framework": "arduino",
     "board": "esp32:esp32:esp32s3",
@@ -31,5 +31,5 @@
     "properties": []
   },
   "createdAt": "2026-10-16T11:53:06.405Z",
-  "updatedAt": "2026-11-02T05:57:18.955Z"
+  "updatedAt": "2026-11-02T09:50:11.810Z"
 }
